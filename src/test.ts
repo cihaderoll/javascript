@@ -1,1 +1,5 @@
-console.log("test");
+let greet: Function;
+
+greet = () =>{
+    console.log("deneme");
+}
